@@ -7,4 +7,3 @@
     - Contraste
     - Taille typo
     - Animations n'entravent pas la navigation
-- 
