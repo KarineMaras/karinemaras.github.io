@@ -1,9 +1,8 @@
 # karinemaras.github.io
 
-## Definition of done : Cross-mélangé sujet
+## Definition of done : not to do
 
-- Mobile first
-- Accessibilité
-    - Contraste
-    - Taille typo
-    - Animations n'entravent pas la navigation
+- Projets UX / UI
+- Méthodologie
+- Illustration
+- Craft
