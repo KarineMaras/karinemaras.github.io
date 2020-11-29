@@ -3,29 +3,5 @@ title: Karine Marasligiller ≽(^ ᗜ ^)≼
 layout: default
 ---
 
-{% include hero-section.html %}
-
-{% include about-section.html %}
-
-{% include skills-section.html %}
-
-{% include experience-section.html %}
-
-{% include education-section.html %}
-
-{% include services-section.html %}
-
-{% include portfolio-section.html %}
-
-{% include testimonial-section.html %}
-
-{% include client-section.html %}
-
-{% include blog-section.html %}
-
----
-layout: default
----
-# Karine Marasligiller
-
-Hi there, I'm Karine !
+Hi there, I'm Karine Marasligiller 
+# UX/UI designer & Illustrator
