@@ -17,5 +17,5 @@ Je publie parfois quelques dessins sur [Instagram](http://instagram.com/gedzok/)
 Mes projets du moment : un jeu de société sur l'univers du microbiote, terminer l'aménagement de mon van et un projet secret avec [BigUpMamieLucette](https://www.instagram.com/stories/bigupmamielucette/){:target="_blank"} !
 
 Vous pouvez me contacter pour discuter de vos projets d'interface ou d'illustration :
-par mail <mail@uxalot.com>
-sur LinkedIn <https://www.linkedin.com/in/karinemaras/>
+par [mail](mail@uxalot.com)
+sur [LinkedIn](https://www.linkedin.com/in/karinemaras/)
