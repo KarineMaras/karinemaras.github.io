@@ -7,6 +7,6 @@ layout: default
 
 ## Expateo
 📅 décembre 2016 - juillet 2020 | 🧢 Lead UX Designer  
-<img src="https://raw.githubusercontent.com/KarineMaras/karinemaras.github.io/master/assets/images/Preview_Expateo.png" alt="Preview Expateo" width="50"/> 
+<img src="https://raw.githubusercontent.com/KarineMaras/karinemaras.github.io/master/assets/images/PreviewExpateo.png" alt="Preview Expateo" width="250"/> 
 
 <a href="/UX-UI/expateo">voir plus</a>
