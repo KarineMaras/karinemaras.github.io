@@ -5,7 +5,7 @@ layout: default
 
 # Bonjour, je suis Karine Marasligiller
 # Designer UX/UI & illustratrice
-_Ceci est un site très en construction, disons que c'est un [MVP](https://fr.wikipedia.org/wiki/Produit_minimum_viable){:target="_blank}_  
+_Site très en construction_  
 
 Vous trouverez sur ce site quelques exemples de <a href="/UX-UI">projets UX/UI</a>, ainsi que le déroulé de la <a href="/methode">méthode</a> employée avec une liste non-exhaustive d'outils de conception. Mais pour résumer il s'agit de discuter, prioriser, prototyper, tester et recommencer !
 
