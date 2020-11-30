@@ -2,12 +2,13 @@
 
 📅 décembre 2016 - juillet 2020 | 🧢 Lead UX Designer
 
-![expateo](https://raw.githubusercontent.com/KarineMaras/karinemaras.github.io/master/assets/images/PreviewExpateo.png)  
+Solution SaaS à destination des professionnels de la mobilité internationale et des expatrié.e.s,  
+[Expateo](https://expateo.com/fr/) propose une approche didactique pour la réalisation d'une tâche complexe.
 
-J'ai travaillé avec Expateo plus de 3 ans.  
-Durant cette période le projet est passé de B2C à B2C et nous avons réalisé une suite d'outils en mode SaaS.  
-A destination des professionnels de la mobilité internationale : RH, gestionnaires, prestataires)   
-et des expatriés & futurs expatriés sur toute la durée de leur mobilité (avant, pendant et après).
+Partant du constat que tous les pays ne proposent pas une expérience homogène voire suffisante pour la préparation d'une expatriation,  
+l'équipe d'Expateo s'est efforcée dans un premier temps de développer une solution à destination du grand public pour rendre l'expatriation accessible au plus grand nombre.
+
+A la suite de quoi, l'activité s'est précisée sur une suite d'outils SaaS à destination des professionnels de l'expatriation.
 
 ![expateo1](https://raw.githubusercontent.com/KarineMaras/karinemaras.github.io/master/assets/images/expateo1.png)
 
