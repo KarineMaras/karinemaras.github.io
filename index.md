@@ -5,7 +5,6 @@ layout: default
 
 # Bonjour, je suis Karine Marasligiller
 # Designer UX/UI & illustratrice
-_Site très en construction_  
 
 Vous trouverez _bientôt_ sur ce site quelques exemples de projets UX/UI ainsi que le déroulé de la méthode employée avec une liste non-exhaustive d'outils de conception. Mais pour résumer il s'agit de discuter, prioriser, prototyper, tester et recommencer !
 
